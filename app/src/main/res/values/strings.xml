@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindDevJobs</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_job">Find Job</string>
+    <string name="did_you_find_new_java_job">Did you find New Java Job!</string>
+</resources>
